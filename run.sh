@@ -1,2 +1,2 @@
 javac Prob1.java
-java Prob1
+java Prob2.java
